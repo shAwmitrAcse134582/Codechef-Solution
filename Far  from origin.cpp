@@ -23,11 +23,7 @@ int main()
   	cout<<"EQUAL"<<endl;
   	
   		
-    }
-
-  	
-  	
-  	     		
+    }     		
 get_out;
 }
 
